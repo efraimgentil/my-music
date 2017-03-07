@@ -4,3 +4,6 @@
 [submodule "my-music-catalog"]
 	path = my-music-catalog
 	url = git@github.com:efraimgentil/my-music-catalog.git
+[submodule "my-music-gateway"]
+	path = my-music-gateway
+	url = git@github.com:efraimgentil/my-music-gateway.git
