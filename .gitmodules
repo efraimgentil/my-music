@@ -7,3 +7,6 @@
 [submodule "my-music-gateway"]
 	path = my-music-gateway
 	url = git@github.com:efraimgentil/my-music-gateway.git
+[submodule "my-music-gofer"]
+	path = my-music-gofer
+	url = git@github.com:efraimgentil/my-music-gofer.git
